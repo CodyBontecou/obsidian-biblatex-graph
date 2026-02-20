@@ -63,6 +63,11 @@ npm run dev    # watch mode (dev build)
 npm run build  # production build
 ```
 
+
+## Inspiration
+
+This plugin was built in response to a request by u/flammschild in [this Reddit thread](https://www.reddit.com/r/ObsidianMD/comments/1r8vw0w/anyone_have_a_plugin_request/) — BibLaTeX citation keys as clickable graph nodes.
+
 ## License
 
 MIT
