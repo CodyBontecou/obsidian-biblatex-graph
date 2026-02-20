@@ -3,7 +3,7 @@
   "name": "BibLaTeX Citations as Graph Nodes",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
-  "description": "Detect @citekey and [@key] citation patterns, turn them into clickable links to reference notes, and inject them as graph edges so citations appear in the Obsidian graph view.",
+  "description": "Detect @citekey and [@key] citation patterns, turn them into clickable links to reference notes, and inject them as graph edges so citations appear in the graph view.",
   "author": "Cody Bontecou",
   "authorUrl": "https://github.com/CodyBontecou",
   "isDesktopOnly": false
